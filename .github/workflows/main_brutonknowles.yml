@@ -65,4 +65,4 @@ jobs:
           app-name: 'brutonknowles'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D3B212D337F64EFC90DEA260D3C87090 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2C0305F2EAB74CBDBCD5903043F6A60C }}
